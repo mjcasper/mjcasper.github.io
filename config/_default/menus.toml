@@ -9,19 +9,30 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Teaching"
+  url = "/teaching"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Online Course FAQ"
+  url = "/faq"
   weight = 40
+
+[[main]]
+  name = "Winter 2020"
+  url = "/winter"
+  weight = 20
+
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 40
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 50
+
 
 [[main]]
   name = "Contact"
