@@ -1,0 +1,22 @@
+{{ range $.Site.Data.testing.sites }}
+
+<div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
+        <span>
+	{{ .city }} - {{ .institution }}
+   	</span>
+    </div>
+    <div class="expand-content" style="display: none;">
+	<p>
+	<strong>Institution</strong>: {{ .institution }}<br>
+	<strong>Testing Center</strong>: {{ .name }}<br>
+	<strong>Location</strong>: {{ .city }}, NY<br>
+	<strong>Phone Number</strong>: {{ .phone }}<br>
+	<strong>Email</strong>: {{ .email }}<br>
+	<strong>Website</strong>: <a href="{{.website}}" target="_blank">{{ .website }}</a>
+	</p>
+    </div>
+</div>
+   
+{{ end }}

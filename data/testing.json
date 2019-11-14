@@ -1,0 +1,35 @@
+{
+  "sites": {
+
+"albany1": {"website": "https://www.albany.edu/disability/", "city": "Albany", "name": "Disability Resource Center", "email": "drc@albany.edu", "phone": "518-442-5490", "state": "New York", "nickname": "albany", "institution": "SUNY Albany "},
+
+"binghamton1": {"website": "https://www.binghamton.edu/clt/utc/index.html", "city": "Binghamton", "name": "University Testing Center", "email": "utc@binghamton.edu", "phone": "607-777-2014", "state": "New York", "nickname": "binghamton", "institution": "SUNY Binghamton "},
+
+"brooklyn1": {"website": "http://www.brooklyn.cuny.edu/web/about/administration/enrollment/testing.php", "city": "Brooklyn", "name": "Office of Testing", "email": "testing@brooklyn.cuny.edu", "phone": "718-951-5916", "state": "New York", "nickname": "brooklyn", "institution": "Brooklyn College (CUNY)"},
+
+"brooklyn2": {"website": "http://www.liu.edu/Brooklyn/Academics/Centers/Testing-Center/Placement-Examination-Out-of-state-student", "city": "Brooklyn", "name": "Testing Center", "email": "andres.marulanda@liu.edu", "phone": "718-488-1392", "state": "New York", "nickname": "liu", "institution": "LIU Brooklyn"},
+
+"brooklyn3": {"website": "https://ares.mec.cuny.edu/admissions/testing-center/proctoring-services/", "city": "Brooklyn", "name": "Testing Center", "email": "asktesting@mec.cuny.edu", "phone": "718-270-4835", "state": "New York", "nickname": "medgarevers", "institution": "Medgar Evers College (CUNY)"},
+
+"flushing1": {"website": "http://www.acs.edu/testing", "city": "Flushing", "name": "Testing", "email": "test@acs.edu", "phone": "718-661-9771", "state": "New York", "nickname": "acs_f", "institution": "Alliance Computing Solutions, Flushing"},
+
+"gardencity1": {"website": "https://www.ncc.edu/placementtesting/distance_testing_services.shtml", "city": "Garden City", "name": "Distance Testing Services", "email": "placementtesting@ncc.edu", "phone": "516-572-7780", "state": "New York", "nickname": "nassau", "institution": "Nassau Community College (SUNY)"},
+
+"manhattan1": {"website": "http://www.acs.edu/testing", "city": "Manhattan", "name": "Testing", "email": "Testnyc@acs.edu", "phone": "212-868-5990", "state": "New York", "nickname": "acs_m", "institution": "Alliance Computing Solutions, Manhattan"},
+
+"newrochelle1": {"website": "https://www.monroecollege.edu/Degrees/Academic-Resources/Testing-Center/", "city": "New Rochelle", "name": "Testing Center", "email": "nrtestingcenter@monroecollege.edu", "phone": "914-632-5400 ext. 6463", "state": "New York", "nickname": "monroenyc", "institution": "Monroe College"},
+
+"newyork1": {"website": "https://www.nybi.org/proctoring.html", "city": "New York", "name": "Testing Center", "email": "proctor@nybi.org", "phone": "212-922-1000", "state": "New York", "nickname": "nybi", "institution": "New York Business Institute"},
+
+"newyork2": {"website": "https://www.stjohns.edu/admission-aid/transfer-admission/transfer-student-services", "city": "New York", "name": "Transfer Student Services", "email": "gouldthk@stjohns.edu", "phone": "718-990-3372", "state": "New York", "nickname": "stjohns", "institution": "St. John\u2019s University"},
+
+"poughkeepsie1": {"website": "https://www.sunydutchess.edu/academics/academicsupport/ast/", "city": "Poughkeepsie", "name": "Academic Services & Testing", "email": "dccproctor@sunydutchess.edu", "phone": "845-431-8090", "state": "New York", "nickname": "dutchess", "institution": "Dutchess Community College (SUNY)"},
+
+"rochester1": {"website": "https://www.monroecc.edu/depts/testingservices/", "city": "Rochester", "name": "Testing Services", "email": "testing@monroecc.edu", "phone": "585-292-2290", "state": "New York", "nickname": "monroe", "institution": "Monroe Community College (SUNY)"},
+
+"schenectady1": {"website": "https://sunysccc.edu/Current-Students/Student-Life-and-Resources/Testing-Center", "city": "Schenectady", "name": "Testing and Placement Center", "email": "testingcenter@sunysccc.edu", "phone": "518-381-1293", "state": "New York", "nickname": "schenectady", "institution": "Schenectady Community College (SUNY)"},
+
+"stonybrook1": {"website": "https://www.stonybrook.edu/celt/services/assessment/testing-services/testing-center", "city": "Stony Brook", "name": "Center for Excellence in Learning and Teaching", "email": "testingcenter@stonybrook.edu", "phone": "631-632-2380", "state": "New York", "nickname": "stonybrook", "institution": "SUNY Stony Brook"},
+
+"syracuse1": {"website": "http://www.sunyocc.edu/index.aspx?menu=779&id=22652", "city": "Syracuse", "name": "Testing Services", "email": "testingservices@sunyocc.edu", "phone": "315-498-2507", "state": "New York", "nickname": "onondaga", "institution": "Onondaga Community College (SUNY)"}
+}}
