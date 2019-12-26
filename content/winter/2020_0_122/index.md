@@ -17,7 +17,7 @@ summary: Survey of Calculus and Its Applications 2
 
 ## Course Syllabus
 
-- The course syllabus for the Winter 2020 session will be released in early December 2019.
+- The course syllabus for the Winter 2020 session will be released on December 30, 2019.
 - You can view our  Winter 2019 [course syllabus](syllabus.pdf) from the previous year, to get an idea of what to expect for this upcoming year. 
 - As well as the generic syllabus listed on the [Math Department's website](http://www.buffalo.edu/cas/math/ug/ug-courses/syllabi.html).
 
